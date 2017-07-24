@@ -9,6 +9,10 @@
         }
     ],
     "require": {
-	"wan/lib": "~1.0"
-	}
+        "wan/lib": "~1.0",
+        "laravel/framework": "5.1.* || 5.2.*"
+    },
+    "autoload": {
+        "psr-4": {"Wan\\RawCookie\\": "src/"}
+    }
 }
