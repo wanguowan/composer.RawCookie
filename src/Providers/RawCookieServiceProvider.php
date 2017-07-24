@@ -8,6 +8,7 @@
 namespace Wan\RawCookie\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use Wan\RawCookie\RawCookieJar;
 
 class RawCookieServiceProvider extends ServiceProvider
 {
