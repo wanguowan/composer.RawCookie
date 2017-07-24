@@ -1,0 +1,14 @@
+{
+    "name": "wan/raw-cookie",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "零下一度",
+            "email": "wanguowan521@163.com"
+        }
+    ],
+    "require": {
+	"wan/lib": "~1.0"
+	}
+}
